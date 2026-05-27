@@ -181,6 +181,8 @@ This policy will be:
 This policy is approved by:
 
 -Head of IT / CIO
+
 -Information Security Officer
+
 -Senior Management
 
