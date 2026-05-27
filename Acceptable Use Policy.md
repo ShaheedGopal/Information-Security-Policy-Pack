@@ -161,3 +161,26 @@ Failure to comply with this policy may result in:
 | Security Team | Monitor compliance and manage risks |
 | Management | Ensure awareness and enforcement |
 
+## Exceptions
+
+Any exceptions to this policy:
+
+-Must be formally requested
+-Documented and justified
+-Approved by management and security
+
+## Review and Maintenance
+
+This policy will be:
+
+-Reviewed annually
+-Updated based on regulatory, technological, or business changes
+
+## Approval
+
+This policy is approved by:
+
+-Head of IT / CIO
+-Information Security Officer
+-Senior Management
+
